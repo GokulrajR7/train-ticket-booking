@@ -30,7 +30,7 @@ A simple Java-based command-line Train Ticket Booking System that demonstrates O
 
 This diagram represents the class-level design used in the project:
 
-![UML Diagram](UML Diagram.png)
+![UML Diagram](UML_Diagram.png)
 
 ---
 
